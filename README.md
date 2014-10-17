@@ -4,6 +4,8 @@ Material Design Icons are the official open-source [icons](http://www.google.com
 
 In Xcode 6 you are able to add PDF images to Asset Catalogs to automatically render the @1x, @2x and @3x images. I have automatically generated the PDF files from the SVG files using Inkscape (and a bash script) and added them in this repository.
 
+The easiest way to use these icons is to [download the ZIP file containing all the PDFs](https://github.com/programmingthomas/material-design-icons/blob/master/icons_pdf.zip) straight from GitHub, but you can clone the whole repo if you like.
+
 ## What's included?
 
 * **PDF versions of all icons in both 24px and 48px flavours** - useful for iOS developers using vector icons in Xcode 6
