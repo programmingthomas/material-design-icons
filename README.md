@@ -19,7 +19,7 @@ A live [preview](http://google.github.io/material-design-icons/)  of the icon se
 
 ## Getting Started
 
-To use the icons in your iOS projects, download the repository and drag the PDF files into Xcode (either 24px or 48px variants) image catalogs. Xcode will then generate the @1x, @2x or @3x assets.
+To use the icons in your iOS projects, download [the zi](https://github.com/programmingthomas/material-design-icons/blob/master/icons_pdf.zip) or the repository and drag the PDF files into Xcode (either 24px or 48px variants) image catalogs. Xcode will then generate the @1x, @2x or @3x assets.
 
 ## Transparency
 
