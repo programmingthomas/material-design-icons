@@ -11,5 +11,4 @@ for i in $1/svg/*; do
 done
 
 git add .
-git status -s
 git commit -m "$1 PDF icons"
