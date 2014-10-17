@@ -10,5 +10,5 @@ for i in $1/svg/*; do
     /Applications/Inkscape.app/Contents/Resources/bin/inkscape --without-gui --export-pdf="$1/pdf/$(basename $i .svg).pdf" $i
 done
 
-git add .
-git commit -m "$1 PDF icons"
+#git add .
+#git commit -m "$1 PDF icons"
